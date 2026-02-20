@@ -23,7 +23,9 @@ body {
   box-sizing: border-box;
 }
 
-
+img {
+  border-radius: 16px;
+}
 
 main {
   border-radius: 16px;
@@ -66,3 +68,4 @@ footer {
 footer img {
   vertical-align: middle;
 }
+
